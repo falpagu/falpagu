@@ -4,7 +4,8 @@ Background in filmmaking, camera work & video editing — bringing visual storyt
 I care about clean, readable code that just works — responsive across all browsers. <br>
 #bookworm <br>
 #swimmer
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
+
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
