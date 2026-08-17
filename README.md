@@ -27,5 +27,5 @@ I care about clean, readable code that just works — responsive across all brow
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 <br>
 <br>
-# Below are my pinned projects ⬇️
+# Below are my selected projects, which I created during my learning process ⬇️
 
