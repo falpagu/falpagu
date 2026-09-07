@@ -19,6 +19,7 @@ I care about clean, readable code that just works — responsive across all brow
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ### API
+![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
 ![PokeAPI](https://img.shields.io/badge/PokeAPI-EF5350?logo=pokemon&logoColor=white)
 
 ### Version Control
