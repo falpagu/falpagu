@@ -20,7 +20,6 @@ I care about clean, readable code that just works — responsive across all brow
 
 ### API
 ![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
-![PokeAPI](https://img.shields.io/badge/PokeAPI-EF5350?logo=pokemon&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
