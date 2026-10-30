@@ -34,8 +34,7 @@ I care about clean, readable code that just works — responsive across all brow
 ![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-000000?logo=finalcutpro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?logo=adobelightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white)
+
 
 <br>
 <br>
